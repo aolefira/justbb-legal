@@ -13,6 +13,10 @@ If you have iCloud Drive enabled on your iPhone, the app optionally saves backup
 
 The only information the app sends off-device to a service the developer operates is **anonymous crash diagnostics** through Firebase Crashlytics, used solely to detect and fix bugs.
 
+## Health & Fitness Disclaimer
+
+JustBB is a personal training log, not medical advice. Consult a physician before starting any exercise program.
+
 ## 1. Information We Do Not Collect
 
 JustBB does **not** collect, request, or transmit any of the following:
