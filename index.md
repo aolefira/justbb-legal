@@ -1,7 +1,7 @@
 # Privacy Policy for JustBB
 
-**Effective date:** 2026-05-18
-**Last updated:** 2026-05-23
+**Effective date:** 2026-05-24
+**Last updated:** 2026-05-24
 
 This Privacy Policy describes how the JustBB iOS application ("JustBB", "the app", "we", "our") handles information when you use it. JustBB is developed and operated by Andrew Olefira ("the developer").
 
